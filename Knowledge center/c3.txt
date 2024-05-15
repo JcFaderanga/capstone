@@ -1,0 +1,20 @@
+Methodology - talambuhay ng project
+identify the problem
+select different option
+process the selected option
+analyze the selected option or solution for the topic
+
+requirements analysis - how you understand the project - what will be the solution of the problem
+
+requirments documentation - what is the project is all about  - solution for the promblem - create a solution to answer the problem
+
+design of software
+developement/testing
+implement the project
+
+pano gagawin
+ano yung plano para masolusyunan yung project
+pano i dedesign 
+pano bubuoin
+pano i tetest at i implement
+
